@@ -1,4 +1,4 @@
-# Project Description
+# Project Description_
 
 The **Deep Q-Learning Maze Solver** project is an implementation of deep reinforcement learning designed to train an agent to navigate and solve mazes. The primary objective of the agent is to find the optimal path to exit the maze, starting from an initial position.
 
